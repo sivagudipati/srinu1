@@ -8,7 +8,7 @@
 <h2>!!!Hello World!!!</h2>
 <h2>!!!Hello World!!! test oct 21 check 2</h2>
 <h2>!!!Hello World!!! test oct 23 check 2</h2>
-<h2>!!!Hello World!!! Maven test oct 23 check 2</h2>
+<h2>!!!Hello World!!! Maven22 test oct 23 check 2</h2>
 </body>
 </html>
 
